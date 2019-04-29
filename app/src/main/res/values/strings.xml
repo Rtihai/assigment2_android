@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assaiment2Andr</string>
+    <string-array name="Movies">
+        <item>Catch Me If You Can</item>
+        <item>Fight Club</item>
+        <item>Forrest Gump</item>
+        <item>God Father</item>
+        <item>Good Will Hunting</item>
+        <item>Pulp Fiction</item>
+        <item>The Hangover</item>
+        <item>The Shaw Shank Redemption</item>
+        <item>Titanic</item>
+    </string-array>
+
+</resources>
